@@ -20,7 +20,7 @@ const Header = () => {
 
   return (
     <>
-      <nav className="navbar navbar-expand-lg bg-body-tertiary">
+      <nav className="navbar navbar-expand-lg bg-warning bg-gradient fixed-top">
         <div className="container-fluid">
           <button
             className="navbar-toggler"

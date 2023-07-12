@@ -1,46 +1,46 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.content{
-    height: 80vh;
+.content {
+  height: 100vh;
 }
 
-.registerPage{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 90vh;
+.registerPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
 }
 
 /* transaction page */
-.filters{
-display: flex;
-align-items: center;
-justify-content: space-between;
-padding: 15px 20px;
-box-shadow: 0 0 3px gray;
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  box-shadow: 0 0 3px gray;
 }
 
 /* antd icons */
 
-.anticon svg{
-    font-size: 20px;
-    cursor: pointer;
+.anticon svg {
+  font-size: 20px;
+  cursor: pointer;
 }
 
-.active-icon{
-    color: black;
+.active-icon {
+  color: black;
 }
 
-.inactive-icon{
-    color: gray;
+.inactive-icon {
+  color: gray;
 }
 
-.switch-icons{
-    border: 1px solid black;
-    border-radius: 5px;
-    padding: 6px 15px;
+.switch-icons {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 6px 15px;
 }
